@@ -13,7 +13,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Hono',
   description:
-    'Web framework built on Web Standards for Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, Node.js, and others. Fast, but not only fast.',
+    'AI-powered Solana framework for autonomous crypto trading.',
   ignoreDeadLinks: true,
   cleanUrls: true,
   markdown: {
