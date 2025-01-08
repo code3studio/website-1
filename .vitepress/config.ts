@@ -32,7 +32,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: '/images/logo.svg',
-    siteTitle: 'CryptIQ',
+    siteTitle: 'PyIq',
   
     socialLinks: [
       { icon: 'github', link: 'https://github.com/' },
@@ -42,7 +42,7 @@ export default defineConfig({
     footer: {
       message: 'Released under the MIT License.',
       copyright:
-        'Copyright © 2025 CryptIQ.',
+        'Copyright © 2025 PyIq.',
     },
     nav: [
       { text: 'Docs', link: '/docs/' },

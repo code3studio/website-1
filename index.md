@@ -1,5 +1,5 @@
 ---
-title: Cryptiq - AI Crypto Trading
+title: PyIq - AI Crypto Trading
 titleTemplate: ':title'
 head:
   - [
@@ -11,7 +11,7 @@ head:
     ]
 layout: home
 hero:
-  name: CryptIQ
+  name: PyIq
   text: AI Crypto Trading
   tagline: Intelligent trading powered by AI and Solana blockchain for data-driven strategies. Built with Python. 
   image:
