@@ -11,7 +11,7 @@ import { createFileSystemTypesCache } from '@shikijs/vitepress-twoslash/cache-fs
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'Hono',
+  title: 'pyiq',
   description:
     'AI-powered Solana framework for autonomous crypto trading.',
   ignoreDeadLinks: true,
@@ -70,7 +70,7 @@ export default defineConfig({
     ],
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
   ],
-  titleTemplate: ':title - Hono',
+  titleTemplate: ':title - pyiq',
   vite: {
     plugins: [
       groupIconVitePlugin({

@@ -23,7 +23,7 @@ hero:
       link: /docs/
     - theme: alt
       text: View our Docs
-      link: https://github.com/honojs/hono
+      link: hhttps://github.com/pyiq/pyiq_ai
 features:
   - icon: 🤖
     title: AI-Powered Decisions
@@ -53,7 +53,6 @@ onMounted(() => {
   const setKawaii = () => {
     const images = document.querySelectorAll('.VPImage.image-src')
     images.forEach((img) => {
-      img.src = '/images/hono-kawaii.png'
       img.classList.add("kawaii")
     })
   }
