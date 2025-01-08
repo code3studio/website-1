@@ -10,7 +10,7 @@ It operates on Solana's blockchain infrastructure and utilizes advanced AI model
 
 Here's the breakdown
 
-```ts twoslash
+```plaintext
 PyIq_AI/
 ├── src/
 │   ├── agents.py           # AI agent implementations
@@ -157,3 +157,4 @@ PyIq transforms crypto trading by combining AI and Solana's blockchain for fast,
 
 Take control of your trading strategy, optimize your performance, and unlock the full potential of AI-driven crypto trading with PyIq.  
 Ready to get started? [Explore PyIq here](https://github.com/PyIq-ai/trading-system) and build your intelligent trading system today!
+
