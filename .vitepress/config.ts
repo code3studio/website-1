@@ -54,7 +54,7 @@ export default defineConfig({
       'meta',
       {
         property: 'og:image',
-        content: 'https://hono.dev/images/hono-title.png',
+        content: '',
       },
     ],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -63,7 +63,7 @@ export default defineConfig({
       'meta',
       {
         property: 'twitter:image',
-        content: 'https://hono.dev/images/hono-title.png',
+        content: '',
       },
     ],
     [
