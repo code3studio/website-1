@@ -1,6 +1,6 @@
 ---
 title: PyIq - AI-powered Solana framework for autonomous crypto trading.
-titleTemplate: ':title'
+
 head:
   - [
       'meta',

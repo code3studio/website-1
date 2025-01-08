@@ -50,24 +50,7 @@ export default defineConfig({
     ],
   },
   head: [
-    [
-      'meta',
-      {
     
-      },
-    ],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'twitter:domain', content: 'pyiq.fun' }],
-    [
-      'meta',
-      {
-       
-      },
-    ],
-    [
-      'meta',
-      { property: 'twitter:card', content: 'summary_large_image' },
-    ],
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
   ],
   titleTemplate: ':title - pyiq',
