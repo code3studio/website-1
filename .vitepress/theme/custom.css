@@ -12,12 +12,12 @@
   --vp-c-text-dark-2: rgba(235, 235, 245, 0.6);
   --vp-c-text-dark-3: rgba(235, 235, 245, 0.38);
 
-  --vp-c-orange: #e36002;
+  --vp-c-orange: #db02e3;
   --vp-c-orange-soft: rgba(227, 96, 2, 0.1);
-  --vp-c-orange-light: #ff861d;
-  --vp-c-orange-lighter: #ff9c24;
-  --vp-c-orange-dark: #e07700;
-  --vp-c-orange-darker: #d68e22;
+  --vp-c-orange-light: #af02b6;
+  --vp-c-orange-lighter: #f102fa;
+  --vp-c-orange-dark: #c502cc;
+  --vp-c-orange-darker: #ff02ff;
 
   --vp-c-badge-green-light: #308b58;
   --vp-c-badge-green-light-bg: #bff8d7;

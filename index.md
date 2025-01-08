@@ -1,5 +1,5 @@
 ---
-title: Hono - Web framework built on Web Standards
+title: Cryptiq - AI Crypto Trading
 titleTemplate: ':title'
 head:
   - [
@@ -11,9 +11,9 @@ head:
     ]
 layout: home
 hero:
-  name: Hono
-  text: Web application framework
-  tagline: Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.
+  name: CryptIQ
+  text: AI Crypto Trading
+  tagline: Intelligent trading powered by AI and Solana blockchain for data-driven strategies. Built with Python. 
   image:
     src: /images/code.webp
     alt: Hono
@@ -22,21 +22,21 @@ hero:
       text: Get Started
       link: /docs/
     - theme: alt
-      text: View on GitHub
+      text: View our Docs
       link: https://github.com/honojs/hono
 features:
-  - icon: 🚀
-    title: Ultrafast & Lightweight
-    details: The router RegExpRouter is really fast. The hono/tiny preset is under 14kB. Using only Web Standard APIs.
-  - icon: 🌍
-    title: Multi-runtime
-    details: Works on Cloudflare, Fastly, Deno, Bun, AWS, or Node.js. The same code runs on all platforms.
-  - icon: 🔋
-    title: Batteries Included
-    details: Hono has built-in middleware, custom middleware, third-party middleware, and helpers. Batteries included.
-  - icon: 😃
-    title: Delightful DX
-    details: Super clean APIs. First-class TypeScript support. Now, we've got "Types".
+  - icon: 🤖
+    title: AI-Powered Decisions
+    details: Combines machine learning with blockchain data to execute optimal trades with precision.
+  - icon: ◎ 
+    title: Solana Integration
+    details: Leverages Solana's speed and low fees for seamless and efficient trade execution.
+  - icon: 📊
+    title: Advanced Analytics
+    details: Real-time token pricing, sentiment analysis, and market depth evaluation for smarter trading.
+  - icon: 🛡️
+    title: Robust Risk Management
+    details: Implements strict position limits, liquidity assessments, and risk evaluation to protect capital.
 ---
 
 <script setup>
