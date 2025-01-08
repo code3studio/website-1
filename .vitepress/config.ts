@@ -53,17 +53,15 @@ export default defineConfig({
     [
       'meta',
       {
-        property: 'og:image',
-        content: '',
+    
       },
     ],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'twitter:domain', content: 'hono.dev' }],
+    ['meta', { property: 'twitter:domain', content: 'pyiq.fun' }],
     [
       'meta',
       {
-        property: 'twitter:image',
-        content: '',
+       
       },
     ],
     [
