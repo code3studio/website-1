@@ -15,8 +15,8 @@ hero:
   text: AI Crypto Trading
   tagline: Intelligent trading powered by AI and Solana blockchain for data-driven strategies. Built with Python. 
   image:
-    src: /images/code.webp
-    alt: Hono
+    src: /images/import.png
+    alt: env
   actions:
     - theme: brand
       text: Get Started
